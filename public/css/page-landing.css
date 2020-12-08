@@ -37,7 +37,7 @@
 }
 
 .visit a:hover{
-    background: #96feff;
+    background: #ffffff;
 }
 
 #logo {
@@ -58,7 +58,7 @@ main h1 {
 }
 
 /* desktop version */
-
+ 
 @media (min-width: 760px){
     #container{
         padding: 5rem;
